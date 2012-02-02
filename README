@@ -1,0 +1,4 @@
+truth: Truth Table generator script in Python.
+
+truth outputs a truth table to stdout given a boolean expression with an
+arbitrary number of variables.
